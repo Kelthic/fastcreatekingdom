@@ -1,2 +1,2 @@
 Use google.translate for understand russian text! (google.translate.com)
-Используй Гугл Переводчик для понятие русского текста! (google.translate.com)
+РСЃРїРѕР»СЊР·СѓР№ РіСѓРіР» РїРµСЂРµРІРѕРґС‡РёРє РґР»СЏ РїРѕРЅРёРјР°РЅРёСЏ СЂСѓСЃСЃРєРѕРіРѕ С‚РµРєСЃС‚Р° (google.translate.com)
